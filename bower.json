@@ -1,6 +1,7 @@
 {
-  "name": "px-vis-pie-chart",
-  "version": "3.0.0",
+  "name": "px-vis-pie-chart-cs",
+  "homepage": "https://github.com/ipechorin/px-vis-pie-chart"
+  "version": "3.1.0",
   "main": [
     "px-vis-pie-chart.html"
   ],
